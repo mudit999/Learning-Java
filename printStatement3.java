@@ -9,8 +9,7 @@ public class printStatement3 {
 			constructor objectMeth2 = new constructor("None 2");
 			
 			objectMeth.saying();
-			objectMeth2.saying();
-			
+			objectMeth2.saying();	
 		}
 	}
 

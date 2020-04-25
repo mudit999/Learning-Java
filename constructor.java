@@ -2,7 +2,7 @@ package CodeNext;
 
 public class constructor {
 
-	
+	// Instance variable- girlName
 	// Main function in printStatement3
 		private String girlName;
 		
@@ -21,6 +21,5 @@ public class constructor {
 			System.out.printf("Your first gf was %s\n", getName());
 			//s.o.printf(format,args)
 		}
-
 	}
 
