@@ -12,5 +12,4 @@ public class calculator {
 		answer = fnum + snum;
 		System.out.println("Answer is " +answer);
 	}
-
 }
