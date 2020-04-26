@@ -16,7 +16,5 @@ public class mathClass {
 		System.out.println(Math.pow(5,5)); // power
 
 		System.out.println(Math.sqrt(9)); // square root
-
 	}
-
 }
