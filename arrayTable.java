@@ -9,9 +9,7 @@ public class arrayTable {
 		
 		//array index start with 0
 		for(int counter=0; counter<array.length; counter++) {
-			System.out.println(counter + "\t" + array[counter]);
-			
+			System.out.println(counter + "\t" + array[counter]);		
 		}
 	}
-
 }
