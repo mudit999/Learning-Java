@@ -15,4 +15,5 @@ public class arraysInMethod {
 		 for(int counter=0;counter<x.length;counter++)
 			 x[counter]+=5;
 	}
+
 }

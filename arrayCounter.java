@@ -14,5 +14,7 @@ public class arrayCounter {
 		for(int face=1;face<freq.length;face++) {
 			System.out.println(face+ "\t" + freq[face]);
 		}
+	
 	}
+
 }
