@@ -10,7 +10,8 @@ public class enhancedforStatement {
 		int total=0;
 		
 		for(int x: array) {
-			//for(type identifier: array-name working with)
+			//for(datatype identifier: array-name working with)
+			// identifier- name of variable,methods, classes, packages and interfaces,,  used for reference
 			total += x;
 		}
 		System.out.println(total);
