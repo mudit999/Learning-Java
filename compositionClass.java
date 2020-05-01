@@ -1,6 +1,6 @@
 package CodeNext;
 
-// main function is in printImplementtoString class
+// main function is in printImplementtoString.java file
 public class compositionClass {
 	private String name;
 	
